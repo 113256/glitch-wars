@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 public class MusicManager : MonoBehaviour {
 
@@ -8,6 +9,7 @@ public class MusicManager : MonoBehaviour {
 	//then you can drag a music clip to each element
 	public AudioClip[] levelMusicChangeArray;
 	private AudioSource audioSource;
+	public Slider volumeSlider;
 
 	void Awake(){
 		//instructs music manager to persist
@@ -24,6 +26,11 @@ public class MusicManager : MonoBehaviour {
 	void Update () {
 
 	}
+
+	public void ChangeVolume(float volume){
+		audioSource.volume = volume;
+	}
+
 
 	//level = current level
 	//monobehaviour method
