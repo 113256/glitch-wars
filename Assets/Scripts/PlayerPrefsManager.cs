@@ -44,10 +44,10 @@ public class PlayerPrefsManager : MonoBehaviour {
 		}
 	}
 
-	//between 1 and 31
+	//between 1 and 3
 	public static void SetDifficulty(int difficulty){
-		if (difficulty <= 1 && difficulty >= 3) {
-			PlayerPrefs.SetInt (DIFFICULTY_KEY, difficulty);
+		if (difficulty >= 1 && difficulty <= 3) {
+			PlayerPrefs.SetInt(DIFFICULTY_KEY, difficulty);
 		} else {
 			Debug.LogError("difficulty has to be between 1 and 3");
 		}
