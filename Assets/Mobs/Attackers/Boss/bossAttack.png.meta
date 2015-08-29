@@ -1,0 +1,2324 @@
+fileFormatVersion: 2
+guid: 832311a38c022604195c135423af059b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bossAttack_0
+    21300002: bossAttack_1
+    21300004: bossAttack_2
+    21300006: bossAttack_3
+    21300008: bossAttack_4
+    21300010: bossAttack_5
+    21300012: bossAttack_6
+    21300014: bossAttack_7
+    21300016: bossAttack_8
+    21300018: bossAttack_9
+    21300020: bossAttack_10
+    21300022: bossAttack_11
+    21300024: bossAttack_12
+    21300026: bossAttack_13
+    21300028: bossAttack_14
+    21300030: bossAttack_15
+    21300032: bossAttack_16
+    21300034: bossAttack_17
+    21300036: bossAttack_18
+    21300038: bossAttack_19
+    21300040: bossAttack_20
+    21300042: bossAttack_21
+    21300044: bossAttack_22
+    21300046: bossAttack_23
+    21300048: bossAttack_24
+    21300050: bossAttack_25
+    21300052: bossAttack_26
+    21300054: bossAttack_27
+    21300056: bossAttack_28
+    21300058: bossAttack_29
+    21300060: bossAttack_30
+    21300062: bossAttack_31
+    21300064: bossAttack_32
+    21300066: bossAttack_33
+    21300068: bossAttack_34
+    21300070: bossAttack_35
+    21300072: bossAttack_36
+    21300074: bossAttack_37
+    21300076: bossAttack_38
+    21300078: bossAttack_39
+    21300080: bossAttack_40
+    21300082: bossAttack_41
+    21300084: bossAttack_42
+    21300086: bossAttack_43
+    21300088: bossAttack_44
+    21300090: bossAttack_45
+    21300092: bossAttack_46
+    21300094: bossAttack_47
+    21300096: bossAttack_48
+    21300098: bossAttack_49
+    21300100: bossAttack_50
+    21300102: bossAttack_51
+    21300104: bossAttack_52
+    21300106: bossAttack_53
+    21300108: bossAttack_54
+    21300110: bossAttack_55
+    21300112: bossAttack_56
+    21300114: bossAttack_57
+    21300116: bossAttack_58
+    21300118: bossAttack_59
+    21300120: bossAttack_60
+    21300122: bossAttack_61
+    21300124: bossAttack_62
+    21300126: bossAttack_63
+    21300128: bossAttack_64
+    21300130: bossAttack_65
+    21300132: bossAttack_66
+    21300134: bossAttack_67
+    21300136: bossAttack_68
+    21300138: bossAttack_69
+    21300140: bossAttack_70
+    21300142: bossAttack_71
+    21300144: bossAttack_72
+    21300146: bossAttack_73
+    21300148: bossAttack_74
+    21300150: bossAttack_75
+    21300152: bossAttack_76
+    21300154: bossAttack_77
+    21300156: bossAttack_78
+    21300158: bossAttack_79
+    21300160: bossAttack_80
+    21300162: bossAttack_81
+    21300164: bossAttack_82
+    21300166: bossAttack_83
+    21300168: bossAttack_84
+    21300170: bossAttack_85
+    21300172: bossAttack_86
+    21300174: bossAttack_87
+    21300176: bossAttack_88
+    21300178: bossAttack_89
+    21300180: bossAttack_90
+    21300182: bossAttack_91
+    21300184: bossAttack_92
+    21300186: bossAttack_93
+    21300188: bossAttack_94
+    21300190: bossAttack_95
+    21300192: bossAttack_96
+    21300194: bossAttack_97
+    21300196: bossAttack_98
+    21300198: bossAttack_99
+    21300200: bossAttack_100
+    21300202: bossAttack_101
+    21300204: bossAttack_102
+    21300206: bossAttack_103
+    21300208: bossAttack_104
+    21300210: bossAttack_105
+    21300212: bossAttack_106
+    21300214: bossAttack_107
+    21300216: bossAttack_108
+    21300218: bossAttack_109
+    21300220: bossAttack_110
+    21300222: bossAttack_111
+    21300224: bossAttack_112
+    21300226: bossAttack_113
+    21300228: bossAttack_114
+    21300230: bossAttack_115
+    21300232: bossAttack_116
+    21300234: bossAttack_117
+    21300236: bossAttack_118
+    21300238: bossAttack_119
+    21300240: bossAttack_120
+    21300242: bossAttack_121
+    21300244: bossAttack_122
+    21300246: bossAttack_123
+    21300248: bossAttack_124
+    21300250: bossAttack_125
+    21300252: bossAttack_126
+    21300254: bossAttack_127
+    21300256: bossAttack_128
+    21300258: bossAttack_129
+    21300260: bossAttack_130
+    21300262: bossAttack_131
+    21300264: bossAttack_132
+    21300266: bossAttack_133
+    21300268: bossAttack_134
+    21300270: bossAttack_135
+    21300272: bossAttack_136
+    21300274: bossAttack_137
+    21300276: bossAttack_138
+    21300278: bossAttack_139
+    21300280: bossAttack_140
+    21300282: bossAttack_141
+    21300284: bossAttack_142
+    21300286: bossAttack_143
+    21300288: bossAttack_144
+    21300290: bossAttack_145
+    21300292: bossAttack_146
+    21300294: bossAttack_147
+    21300296: bossAttack_148
+    21300298: bossAttack_149
+    21300300: bossAttack_150
+    21300302: bossAttack_151
+    21300304: bossAttack_152
+    21300306: bossAttack_153
+    21300308: bossAttack_154
+    21300310: bossAttack_155
+    21300312: bossAttack_156
+    21300314: bossAttack_157
+    21300316: bossAttack_158
+    21300318: bossAttack_159
+    21300320: bossAttack_160
+    21300322: bossAttack_161
+    21300324: bossAttack_162
+    21300326: bossAttack_163
+    21300328: bossAttack_164
+    21300330: bossAttack_165
+    21300332: bossAttack_166
+    21300334: bossAttack_167
+    21300336: bossAttack_168
+    21300338: bossAttack_169
+    21300340: bossAttack_170
+    21300342: bossAttack_171
+    21300344: bossAttack_172
+    21300346: bossAttack_173
+    21300348: bossAttack_174
+    21300350: bossAttack_175
+    21300352: bossAttack_176
+    21300354: bossAttack_177
+    21300356: bossAttack_178
+    21300358: bossAttack_179
+    21300360: bossAttack_180
+    21300362: bossAttack_181
+    21300364: bossAttack_182
+    21300366: bossAttack_183
+    21300368: bossAttack_184
+    21300370: bossAttack_185
+    21300372: bossAttack_186
+    21300374: bossAttack_187
+    21300376: bossAttack_188
+    21300378: bossAttack_189
+    21300380: bossAttack_190
+    21300382: bossAttack_191
+    21300384: bossAttack_192
+    21300386: bossAttack_193
+    21300388: bossAttack_194
+    21300390: bossAttack_195
+    21300392: bossAttack_196
+    21300394: bossAttack_197
+    21300396: bossAttack_198
+    21300398: bossAttack_199
+    21300400: bossAttack_200
+    21300402: bossAttack_201
+    21300404: bossAttack_202
+    21300406: bossAttack_203
+    21300408: bossAttack_204
+    21300410: bossAttack_205
+    21300412: bossAttack_206
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bossAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2508
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2508
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2508
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2508
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2508
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2508
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_6
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2508
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_7
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2508
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_8
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2508
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2394
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2394
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2394
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2394
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2394
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_14
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2394
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_15
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2394
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_16
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2394
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_17
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2394
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2280
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2280
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2280
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2280
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_23
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2280
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_24
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2280
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_25
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2280
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_26
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2280
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2166
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2166
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2166
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_30
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2166
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2166
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_32
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2166
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_33
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2166
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_34
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2166
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_35
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2166
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2052
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2052
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2052
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_39
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2052
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_40
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2052
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_41
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2052
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_42
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2052
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_43
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2052
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_44
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2052
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1938
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1938
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1938
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1938
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_49
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1938
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_50
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1938
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_51
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1938
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_52
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1938
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_53
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1938
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_55
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1824
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1824
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_57
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1824
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1824
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_59
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1824
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_60
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1824
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_61
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1824
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_62
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1824
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1710
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_64
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1710
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_65
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1710
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_66
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1710
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_67
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1710
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_68
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1710
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_69
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1710
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_70
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1710
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_71
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1710
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1596
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_73
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1596
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_74
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1596
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_75
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1596
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_76
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1596
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_77
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1596
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_78
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1596
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_79
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1596
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_80
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1596
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1482
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_82
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1482
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_83
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1482
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_84
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1482
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_85
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1482
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_86
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1482
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_87
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1482
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_88
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1482
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_89
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1482
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_91
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1368
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_92
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1368
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_93
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1368
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_94
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1368
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_95
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1368
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_96
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1368
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_97
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1368
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_98
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1368
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1254
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_100
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1254
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_101
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1254
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_102
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1254
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_103
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1254
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_104
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1254
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_105
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1254
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_106
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1254
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_107
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1254
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_109
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1140
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_110
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1140
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_111
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1140
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_112
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1140
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_113
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1140
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_114
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1140
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_115
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1140
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_116
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1140
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1026
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_118
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1026
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_119
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1026
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_120
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1026
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_121
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1026
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_122
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1026
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_123
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1026
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_124
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1026
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_125
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1026
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_127
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 912
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_128
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 912
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_129
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 912
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_130
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 912
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_131
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 912
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_132
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 912
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_133
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 912
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_134
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 912
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_136
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_137
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_138
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_139
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_140
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_141
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_142
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_143
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_145
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_146
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_147
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_148
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_149
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_150
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_151
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_152
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_154
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_155
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_156
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_158
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_159
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_160
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_161
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_163
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_164
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_165
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_166
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_167
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_168
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_169
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_170
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_172
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_173
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_174
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_175
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_176
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_177
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_178
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_179
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_181
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_182
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_183
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_184
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_185
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_186
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_187
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_188
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_190
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_191
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_192
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_193
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_194
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_195
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_196
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_197
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_199
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_200
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_201
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_202
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_203
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_204
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_205
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bossAttack_206
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

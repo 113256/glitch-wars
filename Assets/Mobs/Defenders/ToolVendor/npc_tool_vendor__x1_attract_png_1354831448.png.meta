@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: ed855bfbc808bb7429517825bf9b6653
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_tool_vendor__x1_attract_png_1354831448_0
+    21300002: npc_tool_vendor__x1_attract_png_1354831448_1
+    21300004: npc_tool_vendor__x1_attract_png_1354831448_2
+    21300006: npc_tool_vendor__x1_attract_png_1354831448_3
+    21300008: npc_tool_vendor__x1_attract_png_1354831448_4
+    21300010: npc_tool_vendor__x1_attract_png_1354831448_5
+    21300012: npc_tool_vendor__x1_attract_png_1354831448_6
+    21300014: npc_tool_vendor__x1_attract_png_1354831448_7
+    21300016: npc_tool_vendor__x1_attract_png_1354831448_8
+    21300018: npc_tool_vendor__x1_attract_png_1354831448_9
+    21300020: npc_tool_vendor__x1_attract_png_1354831448_10
+    21300022: npc_tool_vendor__x1_attract_png_1354831448_11
+    21300024: npc_tool_vendor__x1_attract_png_1354831448_12
+    21300026: npc_tool_vendor__x1_attract_png_1354831448_13
+    21300028: npc_tool_vendor__x1_attract_png_1354831448_14
+    21300030: npc_tool_vendor__x1_attract_png_1354831448_15
+    21300032: npc_tool_vendor__x1_attract_png_1354831448_16
+    21300034: npc_tool_vendor__x1_attract_png_1354831448_17
+    21300036: npc_tool_vendor__x1_attract_png_1354831448_18
+    21300038: npc_tool_vendor__x1_attract_png_1354831448_19
+    21300040: npc_tool_vendor__x1_attract_png_1354831448_20
+    21300042: npc_tool_vendor__x1_attract_png_1354831448_21
+    21300044: npc_tool_vendor__x1_attract_png_1354831448_22
+    21300046: npc_tool_vendor__x1_attract_png_1354831448_23
+    21300048: npc_tool_vendor__x1_attract_png_1354831448_24
+    21300050: npc_tool_vendor__x1_attract_png_1354831448_25
+    21300052: npc_tool_vendor__x1_attract_png_1354831448_26
+    21300054: npc_tool_vendor__x1_attract_png_1354831448_27
+    21300056: npc_tool_vendor__x1_attract_png_1354831448_28
+    21300058: npc_tool_vendor__x1_attract_png_1354831448_29
+    21300060: npc_tool_vendor__x1_attract_png_1354831448_30
+    21300062: npc_tool_vendor__x1_attract_png_1354831448_31
+    21300064: npc_tool_vendor__x1_attract_png_1354831448_32
+    21300066: npc_tool_vendor__x1_attract_png_1354831448_33
+    21300068: npc_tool_vendor__x1_attract_png_1354831448_34
+    21300070: npc_tool_vendor__x1_attract_png_1354831448_35
+    21300072: npc_tool_vendor__x1_attract_png_1354831448_36
+    21300074: npc_tool_vendor__x1_attract_png_1354831448_37
+    21300076: npc_tool_vendor__x1_attract_png_1354831448_38
+    21300078: npc_tool_vendor__x1_attract_png_1354831448_39
+    21300080: npc_tool_vendor__x1_attract_png_1354831448_40
+    21300082: npc_tool_vendor__x1_attract_png_1354831448_41
+    21300084: npc_tool_vendor__x1_attract_png_1354831448_42
+    21300086: npc_tool_vendor__x1_attract_png_1354831448_43
+    21300088: npc_tool_vendor__x1_attract_png_1354831448_44
+    21300090: npc_tool_vendor__x1_attract_png_1354831448_45
+    21300092: npc_tool_vendor__x1_attract_png_1354831448_46
+    21300094: npc_tool_vendor__x1_attract_png_1354831448_47
+    21300096: npc_tool_vendor__x1_attract_png_1354831448_48
+    21300098: npc_tool_vendor__x1_attract_png_1354831448_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 230
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_tool_vendor__x1_attract_png_1354831448_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2250
+        width: 124
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2250
+        width: 125
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_2
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2250
+        width: 124
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_3
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2250
+        width: 125
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_4
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2250
+        width: 123
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2001
+        width: 124
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2001
+        width: 125
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2001
+        width: 124
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2001
+        width: 127
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_9
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 2001
+        width: 125
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1749
+        width: 127
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1749
+        width: 131
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1749
+        width: 135
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_13
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1749
+        width: 135
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_14
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1749
+        width: 137
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1500
+        width: 127
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_16
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1500
+        width: 122
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1500
+        width: 122
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_18
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1500
+        width: 122
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1500
+        width: 124
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1251
+        width: 132
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_21
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1251
+        width: 137
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1251
+        width: 137
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_23
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1251
+        width: 129
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_24
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1251
+        width: 122
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1002
+        width: 126
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_26
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1002
+        width: 126
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1005
+        width: 115
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_28
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1007
+        width: 113
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_29
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1007
+        width: 115
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 761
+        width: 127
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 763
+        width: 137
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_32
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 765
+        width: 146
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_33
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 756
+        width: 154
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_34
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 751
+        width: 158
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 160
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_36
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 499
+        width: 161
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_37
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 499
+        width: 153
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_38
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 499
+        width: 144
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_39
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 499
+        width: 134
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 250
+        width: 129
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_41
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 250
+        width: 127
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_42
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 250
+        width: 127
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_43
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 250
+        width: 127
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 250
+        width: 122
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_45
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1
+        width: 124
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_46
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 125
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_47
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1
+        width: 124
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_48
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1
+        width: 125
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_tool_vendor__x1_attract_png_1354831448_49
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1
+        width: 123
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
