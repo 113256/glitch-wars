@@ -5,13 +5,13 @@ using System.Collections;
 public class Boss : Attacker {
 		public float shield;
 
-		//if i dont do this Start() in the base class will run by itself 
+		/*//if i dont do this Start() in the base class will run by itself 
 		public override void Start(){
 			base.Start ();
-		}
+		}*/
 
 		public override void OnTriggerEnter2D(Collider2D collider){
-		print ("child");
+		print ("sub");
 		Defender defender = collider.gameObject.GetComponent<Defender> ();
 		//must check if colliding with a defender first before tag or get null reference exception
 		if (defender) {

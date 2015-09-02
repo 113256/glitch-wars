@@ -6,10 +6,13 @@ public class Attacker : MonoBehaviour {
 	[Range(-1f, 1.5f)] public float currentSpeed;
 	public Animator anim; 
 	public float health;
-	public float shield;
+	public float damage;
+	private Defender currentTarget;
+	private bool isAttacking;
 
 	// Use this for initialization
-	public virtual void Start () {
+	public void Start () {
+		print ("start");
 		anim = GetComponent<Animator> ();
 		Rigidbody2D myRigidbody = gameObject.AddComponent<Rigidbody2D>();
 		myRigidbody.isKinematic = true;
@@ -23,14 +26,22 @@ public class Attacker : MonoBehaviour {
 		transform.Translate (Vector3.left * currentSpeed * Time.deltaTime);
 		if (health < 0)
 			Destroy (gameObject);
+
+		//if our attacker is targeting something isAttacking = true
+		isAttacking = (currentTarget != null);
+		if(!isAttacking) anim.ResetTrigger ("Attacking");
 	}
 
 	public virtual void OnTriggerEnter2D(Collider2D collider){
 		print ("superclass trigger");
 		//Debug.Log (name + " trigger enter");
 		Defender defender = collider.gameObject.GetComponent<Defender> ();
+		//if defender exists
 		if (defender) {
 			print (this.name + collider.name + " fight");
+
+			currentTarget = collider.gameObject.GetComponent<Defender> ();
+
 			anim.SetTrigger ("Attacking"); 
 		}
 
@@ -40,12 +51,17 @@ public class Attacker : MonoBehaviour {
 
 	}
 
+
+
 	//if mob uses projectiles dont use this
-	public void StrikeCurrentTarget(float damage)
+	//only for melee attacks
+	public void StrikeCurrentTarget()
 	{
-		print ("damage");
+		currentTarget.takeDamage (damage);
 	}
 
+	//dont use this since its not called when the object is destoryed since the collider doesnt exist
+	/*
 	void OnTriggerExit2D(Collider2D collider) {
 
 		Defender defender = collider.gameObject.GetComponent<Defender> ();
@@ -58,7 +74,7 @@ public class Attacker : MonoBehaviour {
 		}
 
 
-	}
+	}*/
 
 	public void setSpeed(float speed)
 	{

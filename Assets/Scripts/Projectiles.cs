@@ -12,6 +12,15 @@ public class Projectiles : MonoBehaviour {
 	}
 
 
+
+
+
+	public void Hit(){
+
+		Destroy (gameObject);
+	}
+
+
 	public float getDamage(){
 		return damage;
 	}
