@@ -4,22 +4,29 @@ using System.Collections;
 public class Attacker : MonoBehaviour {
 
 	[Range(-1f, 1.5f)] public float currentSpeed;
-	private Animator anim; 
+	public Animator anim; 
+	public float health;
+	public float shield;
 
 	// Use this for initialization
-	void Start () {
+	public virtual void Start () {
 		anim = GetComponent<Animator> ();
 		Rigidbody2D myRigidbody = gameObject.AddComponent<Rigidbody2D>();
 		myRigidbody.isKinematic = true;
+	
 
 	}
-	
+
+
 	// Update is called once per frame
 	void Update () {
 		transform.Translate (Vector3.left * currentSpeed * Time.deltaTime);
+		if (health < 0)
+			Destroy (gameObject);
 	}
 
-	void OnTriggerEnter2D(Collider2D collider){
+	public virtual void OnTriggerEnter2D(Collider2D collider){
+		print ("superclass trigger");
 		//Debug.Log (name + " trigger enter");
 		Defender defender = collider.gameObject.GetComponent<Defender> ();
 		if (defender) {
@@ -27,8 +34,13 @@ public class Attacker : MonoBehaviour {
 			anim.SetTrigger ("Attacking"); 
 		}
 
+		/*if (projectile) {
+			health -= projectile.getDamage();
+		}*/
+
 	}
 
+	//if mob uses projectiles dont use this
 	public void StrikeCurrentTarget(float damage)
 	{
 		print ("damage");
