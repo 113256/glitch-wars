@@ -12,7 +12,7 @@ public class Projectiles : MonoBehaviour {
 		
 	}
 
-	void Update () {
+	public virtual void Update () {
 		transform.Translate (Vector3.right * speed * Time.deltaTime);
 	}
 
