@@ -4,17 +4,21 @@ using System.Collections;
 public class Shooter : MonoBehaviour {
 
 	public GameObject projectile;
-	public GameObject projectileParent;
+	private GameObject projectileParent;
 	public GameObject gun;
 
 	void Start(){
 		projectileParent = GameObject.Find("Projectiles");
+
+		//good unity practice- create if it doesnt exist
+		if (!projectileParent) {
+			projectileParent = new GameObject("Projectiles");}
 	}
 
 	private void Fire(){
 		GameObject newProjectile = Instantiate (projectile) as GameObject;
 		newProjectile.transform.parent = projectileParent.transform;
-		//the "gun" child object is just there so that the projectile can spawn on top of it
+		//the "gun" child object is just there so that the projectile can spawn on top of it (but not as a child)
 		newProjectile.transform.position = gun.transform.position;
 	}
 

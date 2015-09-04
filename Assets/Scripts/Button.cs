@@ -8,7 +8,7 @@ public class Button : MonoBehaviour {
 
 	private Button[] buttonArray;
 	//static because we want to access it from other classes without declaring an object first
-	private static GameObject selectedDefender;//shared by all buttons
+	public static GameObject selectedDefender;//shared by all buttons
 
 	void Start(){
 		buttonArray = GameObject.FindObjectsOfType<Button> ();
