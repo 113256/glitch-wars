@@ -28,5 +28,9 @@ public class Defender : MonoBehaviour {
 		return health;
 	}
 
+	public void setHealth(float amount){
+		health = amount;
+	}
+
 
 }

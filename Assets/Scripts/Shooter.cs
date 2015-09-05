@@ -19,6 +19,7 @@ public class Shooter : MonoBehaviour {
 		GameObject newProjectile = Instantiate (projectile) as GameObject;
 		newProjectile.transform.parent = projectileParent.transform;
 		//the "gun" child object is just there so that the projectile can spawn on top of it (but not as a child)
+		//projectiles will spawn under a separate gameObject (so that active projectiles wont be destroyed if the attacker is destroyed)
 		newProjectile.transform.position = gun.transform.position;
 	}
 

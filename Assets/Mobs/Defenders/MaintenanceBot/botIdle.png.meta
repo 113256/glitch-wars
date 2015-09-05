@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 3f72f736e3c893c45afac0cf501009df
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_0
+    21300002: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_1
+    21300004: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_2
+    21300006: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_3
+    21300008: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_4
+    21300010: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_5
+    21300012: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_6
+    21300014: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_7
+    21300016: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_8
+    21300018: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_9
+    21300020: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_10
+    21300022: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_11
+    21300024: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_12
+    21300026: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_13
+    21300028: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_14
+    21300030: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_15
+    21300032: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_16
+    21300034: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_17
+    21300036: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_18
+    21300038: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_19
+    21300040: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_20
+    21300042: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_21
+    21300044: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_22
+    21300046: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_9
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_10
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_11
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_18
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_19
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_20
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_21
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_22
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_idle_png_1354837323_23
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

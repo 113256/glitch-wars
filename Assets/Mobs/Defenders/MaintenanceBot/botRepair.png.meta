@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: 9d027a954aada7242a8517c2abfcbe85
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_0
+    21300002: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_1
+    21300004: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_2
+    21300006: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_3
+    21300008: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_4
+    21300010: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_5
+    21300012: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_6
+    21300014: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_7
+    21300016: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_8
+    21300018: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_9
+    21300020: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_10
+    21300022: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_11
+    21300024: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_12
+    21300026: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_13
+    21300028: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_14
+    21300030: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_15
+    21300032: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_16
+    21300034: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_17
+    21300036: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_18
+    21300038: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_19
+    21300040: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_20
+    21300042: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_21
+    21300044: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_22
+    21300046: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_23
+    21300048: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_24
+    21300050: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_25
+    21300052: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_26
+    21300054: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_27
+    21300056: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_28
+    21300058: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_29
+    21300060: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_30
+    21300062: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_31
+    21300064: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_32
+    21300066: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_33
+    21300068: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_34
+    21300070: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_35
+    21300072: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_36
+    21300074: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_37
+    21300076: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_38
+    21300078: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_39
+    21300080: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_40
+    21300082: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_41
+    21300084: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_42
+    21300086: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_43
+    21300088: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_44
+    21300090: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_45
+    21300092: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_46
+    21300094: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_47
+    21300096: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_48
+    21300098: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_49
+    21300100: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_50
+    21300102: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_51
+    21300104: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_52
+    21300106: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_53
+    21300108: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_54
+    21300110: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_55
+    21300112: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_56
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_9
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_10
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_11
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_18
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_19
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_20
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_21
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_22
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_23
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_27
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_28
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_29
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_30
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_31
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_32
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_33
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_34
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_35
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_38
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_39
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_40
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_41
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_42
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_43
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_44
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_45
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_46
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_47
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_51
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_52
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_53
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_54
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_55
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_maintenance_bot_variant_widgetTin_x1_attract_png_1354837325_56
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
