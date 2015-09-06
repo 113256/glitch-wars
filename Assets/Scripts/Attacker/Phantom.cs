@@ -1,20 +1,24 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class RepairBot : Defender {
+public class Phantom : Attacker {
+	
+	private GameObject spawnerParent;
 
-	private GameObject defenderParent;
 	public ParticleSystem healParticle;
+	
 
-
-	void Start(){
-		defenderParent = GameObject.Find("Defender");
-		//Defender[] defenderArray = defenderParent.GetComponentsInChildren(typeof(Defender)) as Defender[];
+	public override void Update(){
+		//base.Update ();
 	}
 
 	private void Repair(){
+		spawnerParent = GameObject.Find("Spawners");
 		Heal ();
-		print ("____________");
+	}
+
+	public override void OnTriggerEnter2D(Collider2D collider){
+		print ("abc");
 	}
 
 	void Heal(){
@@ -32,13 +36,14 @@ public class RepairBot : Defender {
 
 			};
 		}*/
-
-		//method 2
-		Defender[] defenders = defenderParent.GetComponentsInChildren<Defender> ();
-		foreach(Defender defender in defenders){
-			defender.setHealth(defender.getHealth() + 20f);
-			GameObject particle = Instantiate(healParticle, defender.transform.position, Quaternion.identity) as GameObject;
+		foreach (Transform lane in spawnerParent.transform) {
+			//method 2
+			Attacker[] attackers = lane.GetComponentsInChildren<Attacker> ();
+			foreach (Attacker attacker in attackers) {
+				attacker.setHealth (attacker.getHealth () + 20f);
+				GameObject particle = Instantiate (healParticle, attacker.transform.position, Quaternion.identity) as GameObject;
+			}
 		}
 	}
-
+	
 }

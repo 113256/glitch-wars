@@ -22,7 +22,7 @@ public class Attacker : MonoBehaviour {
 
 
 	// Update is called once per frame
-	void Update () {
+	public virtual void Update () {
 		transform.Translate (Vector3.left * currentSpeed * Time.deltaTime);
 		if (health < 0)
 			Destroy (gameObject);
@@ -45,9 +45,11 @@ public class Attacker : MonoBehaviour {
 			anim.SetTrigger ("Attacking"); 
 		}
 
-		/*if (projectile) {
+		Projectiles projectile = collider.gameObject.GetComponent<Projectiles> ();
+		if (projectile) {
 			health -= projectile.getDamage();
-		}*/
+			projectile.Hit ();
+		}
 
 	}
 
@@ -79,6 +81,14 @@ public class Attacker : MonoBehaviour {
 	public void setSpeed(float speed)
 	{
 		currentSpeed = speed;
+	}
+
+	public float getHealth(){
+		return health;
+	}
+	
+	public void setHealth(float amount){
+		health = amount;
 	}
 
 }

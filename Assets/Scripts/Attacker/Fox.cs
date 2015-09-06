@@ -9,7 +9,11 @@ public class Fox : Attacker {
 			base.Start ();
 		}*/
 
-		public override void OnTriggerEnter2D(Collider2D collider){
+	public override void Update(){
+		base.Update ();
+	}
+	
+	public override void OnTriggerEnter2D(Collider2D collider){
 		//equivalent of "super" in java
 		base.OnTriggerEnter2D (collider);
 	}
