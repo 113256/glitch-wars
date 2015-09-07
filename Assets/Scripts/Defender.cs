@@ -4,6 +4,7 @@ using System.Collections;
 public class Defender : MonoBehaviour {
 
 	public float health;
+	public float cost;
 
 	void OnTriggerEnter2D(Collider2D collider){
 		Projectiles projectile = collider.gameObject.GetComponent<Projectiles> ();
@@ -12,6 +13,10 @@ public class Defender : MonoBehaviour {
 			health -= projectile.getDamage();
 			projectile.Hit ();
 		}
+	}
+
+	public float getCost(){
+		return cost;
 	}
 
 	void Update () {
