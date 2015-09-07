@@ -7,8 +7,9 @@ public class Attacker : MonoBehaviour {
 	public Animator anim; 
 	public float health;
 	public float damage;
-	private Defender currentTarget;
-	private bool isAttacking;
+	//public so subclasses can use
+	public Defender currentTarget;
+	public bool isAttacking;
 
 	// Use this for initialization
 	public void Start () {
@@ -27,9 +28,7 @@ public class Attacker : MonoBehaviour {
 		if (health < 0)
 			Destroy (gameObject);
 
-		//if our attacker is targeting something isAttacking = true
-		isAttacking = (currentTarget != null);
-		if(!isAttacking) anim.ResetTrigger ("Attacking");
+
 	}
 
 	public virtual void OnTriggerEnter2D(Collider2D collider){

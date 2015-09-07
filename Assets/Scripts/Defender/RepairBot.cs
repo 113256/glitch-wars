@@ -28,7 +28,7 @@ public class RepairBot : Defender {
 				print (defender.getHealth() + 20f);
 				defender.setHealth(defender.getHealth() + 20f);
 				GameObject particle = Instantiate(healParticle, defender.transform.position, Quaternion.identity) as GameObject;
-				//particle.transform.parent = child.transform;
+				//
 
 			};
 		}*/
@@ -38,6 +38,7 @@ public class RepairBot : Defender {
 		foreach(Defender defender in defenders){
 			defender.setHealth(defender.getHealth() + 20f);
 			GameObject particle = Instantiate(healParticle, defender.transform.position, Quaternion.identity) as GameObject;
+
 		}
 	}
 

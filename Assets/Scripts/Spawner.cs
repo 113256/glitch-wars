@@ -12,7 +12,7 @@ public class Spawner : MonoBehaviour {
 
 	void Spawn(){
 		//GameObject attacker = Instantiate (attackerArray [1], this.transform.position, Quaternion.identity) as GameObject;
-		randomNum = Random.Range (0, 1); 
+		randomNum = Random.Range (0, 2); 
 
 		GameObject attacker = Instantiate (attackerArray [randomNum]) as GameObject;
 		Boss boss = attacker.gameObject.GetComponent<Boss> ();

@@ -10,7 +10,15 @@ public class Boss : Attacker {
 			base.Start ();
 		}*/
 
-		public override void OnTriggerEnter2D(Collider2D collider){
+		public override void Update(){
+			base.Update ();
+
+			//if our attacker is targeting something isAttacking = true
+			isAttacking = (currentTarget != null);
+			if(!isAttacking) anim.ResetTrigger ("Attacking");
+		}
+	
+	public override void OnTriggerEnter2D(Collider2D collider){
 		print ("sub");
 		Defender defender = collider.gameObject.GetComponent<Defender> ();
 		//must check if colliding with a defender first before tag or get null reference exception

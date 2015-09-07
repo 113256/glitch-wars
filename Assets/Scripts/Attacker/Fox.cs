@@ -11,7 +11,11 @@ public class Fox : Attacker {
 
 	public override void Update(){
 		base.Update ();
-	}
+
+		//if our attacker is targeting something isAttacking = true
+		isAttacking = (currentTarget != null);
+		if(!isAttacking) anim.ResetTrigger ("Attacking");
+	}	
 	
 	public override void OnTriggerEnter2D(Collider2D collider){
 		//equivalent of "super" in java
