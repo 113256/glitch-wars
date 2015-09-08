@@ -32,7 +32,12 @@ public class DefenderSpawner : MonoBehaviour {
 		spawnOnGrid(2,2,listOfDefenders[0]);
 		spawnOnGrid(2,1,listOfDefenders[0]);
 
-		spawnOnGrid(1,2,listOfDefenders[4]);
+		spawnOnGrid(1,3,listOfDefenders[4]);
+
+		spawnOnGrid(1,1,listOfDefenders[3]);
+		spawnOnGrid(1,2,listOfDefenders[3]);
+		spawnOnGrid(1,4,listOfDefenders[3]);
+		spawnOnGrid(1,5,listOfDefenders[3]);
 	}
 
 

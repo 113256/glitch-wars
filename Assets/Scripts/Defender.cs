@@ -19,7 +19,7 @@ public class Defender : MonoBehaviour {
 		return cost;
 	}
 
-	void Update () {
+	public virtual void Update () {
 		if (health <= 0)
 			Destroy (gameObject);
 	}

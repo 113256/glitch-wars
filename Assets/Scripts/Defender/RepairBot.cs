@@ -12,6 +12,10 @@ public class RepairBot : Defender {
 		//Defender[] defenderArray = defenderParent.GetComponentsInChildren(typeof(Defender)) as Defender[];
 	}
 
+	public override void Update () {
+		base.Update ();
+	}
+	
 	private void Repair(){
 		Heal ();
 		print ("____________");
