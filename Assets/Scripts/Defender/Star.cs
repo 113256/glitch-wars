@@ -16,6 +16,11 @@ public class Star : MonoBehaviour {
 	}
 
 	void OnMouseDown(){
+
+		trophy.anim.SetBool ("noStar", true);
+		currency.Earn (50f);
+
+		/*
 		trophy.anim.SetBool("starClickable", false);
 		currency.Earn (50f);
 
@@ -24,6 +29,6 @@ public class Star : MonoBehaviour {
 
 
 		Destroy (gameObject);
-
+		*/
 	}
 }

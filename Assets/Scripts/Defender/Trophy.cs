@@ -3,13 +3,13 @@ using System.Collections;
 
 public class Trophy : Defender {
 
-	public bool starCountDown;
+	/*public bool starCountDown;
 	public float starTime;
-	public float noStarTimer;
+	public float noStarTimer;*/
 	public Animator anim;
 	private GameObject Top;
 	private GameObject star;
-	public GameObject newstar;
+	//public GameObject newstar;
 
 
 	void Start(){
@@ -18,8 +18,15 @@ public class Trophy : Defender {
 		star = Top.transform.Find ("star").gameObject;
 	}
 
-	void StarClickable(){
+	void StarNotClickable(){
+		if (star.GetComponent<BoxCollider2D>()) {
+			BoxCollider2D collider = star.GetComponent<BoxCollider2D> ();
+			Destroy(collider);
+		}
+	}
 
+	void StarClickable(){
+		//add collider so you can click it (star)
 		if (!star.GetComponent<BoxCollider2D>()) {
 			BoxCollider2D newCollider = star.AddComponent<BoxCollider2D> ();
 		}
@@ -30,7 +37,14 @@ public class Trophy : Defender {
 	
 	public override void Update(){
 		base.Update ();
-
+	
+		if( anim.GetCurrentAnimatorStateInfo(0).IsName("Idle"))
+		{
+			anim.SetBool ("noStar", false);
+		}
+		
+		
+		/*
 		//starTime starts counting down after a star spawns
 		if (starCountDown) {
 			starTime-=Time.deltaTime;
@@ -62,9 +76,10 @@ public class Trophy : Defender {
 
 				starCountDown = true;
 			}
+			
 		}
 
-	
+		*/
 	}
 
 }
