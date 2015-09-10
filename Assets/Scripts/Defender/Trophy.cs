@@ -43,7 +43,9 @@ public class Trophy : Defender {
 			anim.SetBool ("noStar", false);
 		}
 		
-		
+		//instead of using timers in the script just make a new clip as a timer and instead of 
+		//destroying and instantiating a new star just make a 5 second clip where the star isnt active
+
 		/*
 		//starTime starts counting down after a star spawns
 		if (starCountDown) {

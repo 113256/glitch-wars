@@ -20,7 +20,7 @@ public class DefenderSpawner : MonoBehaviour {
 			DefenderParent = new GameObject("Defender");}
 
 		//spawn some defenders
-		spawnOnGrid(3,1,listOfDefenders[2]);
+		/*spawnOnGrid(3,1,listOfDefenders[2]);
 		spawnOnGrid(3,2,listOfDefenders[2]);
 		spawnOnGrid(3,3,listOfDefenders[2]);
 		spawnOnGrid(3,4,listOfDefenders[2]);
@@ -37,7 +37,7 @@ public class DefenderSpawner : MonoBehaviour {
 		spawnOnGrid(1,1,listOfDefenders[3]);
 		spawnOnGrid(1,2,listOfDefenders[3]);
 		spawnOnGrid(1,4,listOfDefenders[3]);
-		spawnOnGrid(1,5,listOfDefenders[3]);
+		spawnOnGrid(1,5,listOfDefenders[3]);*/
 	}
 
 

@@ -4,18 +4,22 @@ using System.Collections;
 //inheritance
 public class Boss : Attacker {
 		public float shield;
-
-		/*//if i dont do this Start() in the base class will run by itself 
-		public override void Start(){
-			base.Start ();
-		}*/
+		public LayerMask mask;
+		public GameObject gun;	
 
 		public override void Update(){
 			base.Update ();
 
-			//if our attacker is targeting something isAttacking = true
-			isAttacking = (currentTarget != null);
-			if(!isAttacking) anim.ResetTrigger ("Attacking");
+			Debug.DrawRay (gun.transform.position, -Vector2.right * 3f);
+			RaycastHit2D hit = Physics2D.Raycast(gun.transform.position, -Vector2.right, 3f, mask.value);
+			
+			if (hit.collider != null) {
+				anim.SetBool ("Attacking", true);
+				
+			} else {
+				print ("nothing");
+				anim.SetBool ("Attacking", false);
+			}
 		}
 	
 	public override void OnTriggerEnter2D(Collider2D collider){
