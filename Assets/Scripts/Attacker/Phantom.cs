@@ -31,7 +31,7 @@ public class Phantom : Attacker {
 		foreach (Transform lane in spawnerParent.transform) {
 			Attacker[] attackers = lane.GetComponentsInChildren<Attacker> ();
 			foreach (Attacker attacker in attackers) {
-				attacker.setHealth (attacker.getHealth () + 20f);
+				attacker.addHealth (20f);
 				GameObject particle = Instantiate (healParticle, attacker.transform.position, Quaternion.identity) as GameObject;
 				if(particle==null){
 					print("null");

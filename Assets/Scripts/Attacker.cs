@@ -6,27 +6,38 @@ public class Attacker : MonoBehaviour {
 	[Range(-1f, 1.5f)] public float currentSpeed;
 	public Animator anim; 
 	public float health;
+	private float maxHealth;
 	public float damage;
 	//public so subclasses can use
 	public Defender currentTarget;
 	public bool isAttacking;
 
+	public int score;
+	private ScoreManager scoreManager;
+
 	// Use this for initialization
 	public void Start () {
-		print ("start");
+		maxHealth = health;
+		scoreManager = GameObject.FindObjectOfType<ScoreManager> ();
 		anim = GetComponent<Animator> ();
 		Rigidbody2D myRigidbody = gameObject.AddComponent<Rigidbody2D>();
 		myRigidbody.isKinematic = true;
-	
+
 
 	}
 
+	public int getScore(){
+		return this.score;
+	}
 
 	// Update is called once per frame
 	public virtual void Update () {
 		transform.Translate (Vector3.left * currentSpeed * Time.deltaTime);
-		if (health < 0)
+		if (health < 0) {
+			scoreManager.addScore (getScore ());
 			Destroy (gameObject);
+
+		}
 
 
 	}
@@ -85,8 +96,17 @@ public class Attacker : MonoBehaviour {
 	public float getHealth(){
 		return health;
 	}
-	
+
+	public void addHealth(float amount){
+		if (health + amount > maxHealth) {
+			health = maxHealth;
+		} else {
+			health += amount;
+		}
+	}
+
 	public void setHealth(float amount){
+
 		health = amount;
 	}
 

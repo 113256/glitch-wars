@@ -7,7 +7,7 @@ public class Spawner : MonoBehaviour {
 	private int randomNum;
 	// Use this for initialization
 	void Start () {
-		InvokeRepeating("Spawn", 0.000001f, 2);
+		InvokeRepeating("Spawn", 0.000001f, 4);
 	}
 
 	void Spawn(){
@@ -17,10 +17,11 @@ public class Spawner : MonoBehaviour {
 		GameObject attacker = Instantiate (attackerArray [randomNum]) as GameObject;
 		Boss boss = attacker.gameObject.GetComponent<Boss> ();
 		Phantom phantom = attacker.gameObject.GetComponent<Phantom> ();
+		Fox fox = attacker.gameObject.GetComponent<Fox> ();
 		//if the mob is boss/phantom spawn it ahead of other mobs because they appear into the screen; they dont walk into the screen
-		if (boss || phantom) {
+		if (boss || phantom || fox) {
 			Vector3 pos = new Vector3 (this.transform.position.x - 3, this.transform.position.y);
-			boss.transform.position = pos;
+			attacker.transform.position = pos;
 		} else {
 			attacker.transform.position = this.transform.position;
 		}

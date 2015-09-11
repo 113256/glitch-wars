@@ -17,7 +17,6 @@ public class Boss : Attacker {
 				anim.SetBool ("Attacking", true);
 				
 			} else {
-				print ("nothing");
 				anim.SetBool ("Attacking", false);
 			}
 		}

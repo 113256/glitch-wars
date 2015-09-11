@@ -7,9 +7,9 @@ public class RepairBot : Defender {
 	public ParticleSystem healParticle;
 
 
-	void Start(){
+	public override void Start(){
+		base.Start ();
 		defenderParent = GameObject.Find("Defender");
-		//Defender[] defenderArray = defenderParent.GetComponentsInChildren(typeof(Defender)) as Defender[];
 	}
 
 	public override void Update () {
@@ -18,7 +18,6 @@ public class RepairBot : Defender {
 	
 	private void Repair(){
 		Heal ();
-		print ("____________");
 	}
 
 	void Heal(){
@@ -40,7 +39,7 @@ public class RepairBot : Defender {
 		//method 2
 		Defender[] defenders = defenderParent.GetComponentsInChildren<Defender> ();
 		foreach(Defender defender in defenders){
-			defender.setHealth(defender.getHealth() + 20f);
+			defender.addHealth(20f);
 			GameObject particle = Instantiate(healParticle, defender.transform.position, Quaternion.identity) as GameObject;
 
 		}

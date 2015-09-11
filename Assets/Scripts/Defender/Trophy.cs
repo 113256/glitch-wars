@@ -12,7 +12,8 @@ public class Trophy : Defender {
 	//public GameObject newstar;
 
 
-	void Start(){
+	public override void Start(){
+		base.Start ();
 		anim = GetComponent<Animator>();
 		Top = this.transform.Find("top").gameObject;
 		star = Top.transform.Find ("star").gameObject;

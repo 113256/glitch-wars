@@ -5,6 +5,11 @@ public class Defender : MonoBehaviour {
 
 	public float health;
 	public float cost;
+	private float maxHealth;
+
+	public virtual void Start(){
+		maxHealth = health;
+	}
 
 	void OnTriggerEnter2D(Collider2D collider){
 		Projectiles projectile = collider.gameObject.GetComponent<Projectiles> ();
@@ -20,8 +25,10 @@ public class Defender : MonoBehaviour {
 	}
 
 	public virtual void Update () {
-		if (health <= 0)
+		if (health <= 0) {
+			DefenderSpawner.free(this.transform.position);
 			Destroy (gameObject);
+		}
 	}
 
 	//only for melee damage
@@ -35,6 +42,14 @@ public class Defender : MonoBehaviour {
 
 	public void setHealth(float amount){
 		health = amount;
+	}
+
+	public void addHealth(float amount){
+		if (health + amount > maxHealth) {
+			health = maxHealth;
+		} else {
+			health += amount;
+		}
 	}
 
 

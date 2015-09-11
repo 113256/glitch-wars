@@ -7,7 +7,8 @@ public class Golem : Defender {
 	public Animator anim;
 	public LayerMask mask;
 
-	void Start(){
+	public override void Start(){
+		base.Start ();
 		anim = GetComponent<Animator>();
 	}
 	
@@ -23,7 +24,6 @@ public class Golem : Defender {
 			anim.SetBool ("Attacking", true);
 
 		} else {
-			print ("nothing");
 			anim.SetBool ("Attacking", false);
 		}
 	}

@@ -9,9 +9,9 @@ public class DefenderSpawner : MonoBehaviour {
 	private static bool[,] coordinates = new bool[9, 5];
 	private Currency currency;
 
+
 	// Use this for initialization
 	void Start () {
-
 		currency = GameObject.FindObjectOfType<Currency> ();
 
 		DefenderParent = GameObject.Find("Defender");
@@ -20,7 +20,7 @@ public class DefenderSpawner : MonoBehaviour {
 			DefenderParent = new GameObject("Defender");}
 
 		//spawn some defenders
-		/*spawnOnGrid(3,1,listOfDefenders[2]);
+		spawnOnGrid(3,1,listOfDefenders[2]);
 		spawnOnGrid(3,2,listOfDefenders[2]);
 		spawnOnGrid(3,3,listOfDefenders[2]);
 		spawnOnGrid(3,4,listOfDefenders[2]);
@@ -37,14 +37,14 @@ public class DefenderSpawner : MonoBehaviour {
 		spawnOnGrid(1,1,listOfDefenders[3]);
 		spawnOnGrid(1,2,listOfDefenders[3]);
 		spawnOnGrid(1,4,listOfDefenders[3]);
-		spawnOnGrid(1,5,listOfDefenders[3]);*/
+		spawnOnGrid(1,5,listOfDefenders[3]);
 	}
 
 
 	
 	// Update is called once per frame
 	void Update () {
-	
+
 	}
 
 	public static bool isOccupied(int x, int y){
@@ -72,10 +72,11 @@ public class DefenderSpawner : MonoBehaviour {
 		Defender selectedDefender = Button.selectedDefender.gameObject.GetComponent<Defender>() ;
 		
 		if (!isOccupied((int)worldUnits.x, (int)worldUnits.y)) {
-			if(currency.startCurrency - selectedDefender.getCost() > 0){
+			if(currency.startCurrency - selectedDefender.getCost() >= 0){
 				GameObject defender = Instantiate (Button.selectedDefender, worldUnits, Quaternion.identity) as GameObject;
 				defender.transform.parent = DefenderParent.transform;
 				currency.Deduct(selectedDefender.getCost());
+				coordinates[(int)(worldUnits.x-1), (int)(worldUnits.y-1)] = true;
 			} else{
 					print ("not enought money");
 				}
@@ -84,6 +85,9 @@ public class DefenderSpawner : MonoBehaviour {
 		}
 	}
 
+	public static void free(Vector2 position){
+		coordinates [(int)(position.x - 1), (int)(position.y - 1)] = false;
+	}
 
 	//snaps to centre of nearest grid
 	Vector3 SnapToGrid(Vector3 vector){
