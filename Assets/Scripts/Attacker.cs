@@ -15,6 +15,8 @@ public class Attacker : MonoBehaviour {
 	public int score;
 	private ScoreManager scoreManager;
 
+	public GameObject explosion;
+
 	// Use this for initialization
 	public void Start () {
 		maxHealth = health;
@@ -35,6 +37,7 @@ public class Attacker : MonoBehaviour {
 		transform.Translate (Vector3.left * currentSpeed * Time.deltaTime);
 		if (health < 0) {
 			scoreManager.addScore (getScore ());
+			Instantiate(explosion, this.transform.position, Quaternion.identity);
 			Destroy (gameObject);
 
 		}

@@ -31,7 +31,7 @@ public class ScoreManager : MonoBehaviour {
 		}
 
 		if (score >= 3000) {
-			levelManager.LoadLevel("03a Win");
+			levelManager.LoadNextLevel();
 		}
 	}
 

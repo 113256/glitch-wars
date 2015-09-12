@@ -6,6 +6,7 @@ public class Defender : MonoBehaviour {
 	public float health;
 	public float cost;
 	private float maxHealth;
+	public GameObject explosion;
 
 	public virtual void Start(){
 		maxHealth = health;
@@ -27,6 +28,7 @@ public class Defender : MonoBehaviour {
 	public virtual void Update () {
 		if (health <= 0) {
 			DefenderSpawner.free(this.transform.position);
+			Instantiate(explosion, this.transform.position, Quaternion.identity);
 			Destroy (gameObject);
 		}
 	}

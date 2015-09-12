@@ -7,7 +7,7 @@ public class Spawner : MonoBehaviour {
 	private int randomNum;
 	// Use this for initialization
 	void Start () {
-		InvokeRepeating("Spawn", 0.000001f, 4);
+		InvokeRepeating("Spawn", 0.000001f, spawnRate);
 	}
 
 	void Spawn(){
