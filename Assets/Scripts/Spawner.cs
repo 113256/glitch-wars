@@ -2,12 +2,12 @@
 using System.Collections;
 
 public class Spawner : MonoBehaviour {
-	public int spawnRate;
+	public int spawnDelay;
 	public GameObject[] attackerArray;
 	private int randomNum;
 	// Use this for initialization
 	void Start () {
-		InvokeRepeating("Spawn", 0.000001f, spawnRate);
+		InvokeRepeating("Spawn", 0.000001f, spawnDelay);
 	}
 
 	void Spawn(){

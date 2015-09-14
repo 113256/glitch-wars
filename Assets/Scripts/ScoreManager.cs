@@ -8,7 +8,7 @@ public class ScoreManager : MonoBehaviour {
 	private static GameObject DefenderParent;
 	public Text scoreboard;
 	public int score;
-
+	public Slider scoreslider;
 
 	// Use this for initialization
 	void Start () {
@@ -23,6 +23,8 @@ public class ScoreManager : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
+
+		scoreslider.value = score;
 
 		scoreboard.text = score.ToString ();
 
